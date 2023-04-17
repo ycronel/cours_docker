@@ -14,10 +14,5 @@ pipeline {
                 echo 'Hello World2'
             }
         }
-        stage('Example3') {
-            steps {
-                echo 'Hello World3'
-            }
-        }
     }
 }
